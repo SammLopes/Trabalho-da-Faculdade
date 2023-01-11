@@ -1,3 +1,2 @@
-# Trabalho-da-Faculdae   
-
-Koe galera do grupo aqui terminei um aparte da  tela de cadastro de clientes agr soo falta configuras a tela para  o banco de dados .
+# Usando-java-swing   
+Neste repositorio esta a criação de duas telas para um estabelecimento que vende uniformes escolares, uniformes personalizados.
